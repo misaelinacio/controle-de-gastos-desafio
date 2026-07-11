@@ -35,6 +35,8 @@ Este projeto foi desenvolvido como solução para um desafio técnico de control
 
 ### Passo a Passo
 
+> **Atenção:** Como o projeto possui Front-end e Back-end, você precisará manter **dois terminais abertos** simultaneamente: um para o servidor da API e outro para o servidor do React.
+
 1. **Clonar o Repositório:**
    ```bash
    git clone [https://github.com/misaelinacio/controle-de-gastos-desafio.git](https://github.com/misaelinacio/controle-de-gastos-desafio.git)
